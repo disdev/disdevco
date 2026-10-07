@@ -20,7 +20,7 @@ A static, one-page marketing site for Distance Development (disdev.co), a produc
    - **Rumbo** — online learning platform.
    - **Signup Builder** — volunteer signup form service.
 4. **About** — short paragraph on background and approach (optional; may be cut).
-5. **Contact** — email via `mailto:` link and LinkedIn: https://www.linkedin.com/in/dustin-speer/
+5. **Contact** — email via `mailto:dustin@disdev.co` link and LinkedIn: https://www.linkedin.com/in/dustin-speer/
 6. **Footer** — © Distance Development.
 
 ## Visual design
@@ -30,6 +30,5 @@ Typography-led, system font stack, generous whitespace, a single accent color, a
 Semantic HTML, accessible contrast and focus states, `<title>`, meta description, Open Graph tags, canonical URL `https://disdev.co/`. Verified in a browser at phone and desktop widths before completion.
 
 ## Open items
-- Contact email address (not yet provided).
 - Product URLs for Rumbo and Signup Builder; until provided, cards show a "Coming soon" state instead of a link.
 - Tagline / accent color: neutral defaults unless specified.
